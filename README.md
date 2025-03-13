@@ -33,4 +33,4 @@ This will intiate the install and should produce Office install window.
 ### Troubleshooting
 1. If command issues check ODT directory you created per Microsoft installation instructions for ODT.
 2. If activation issues make sure the correct GVLK is in the XML. Recreating install files will be needed for XML changes. 
-3. Corss referance XML file location names and directory location. This can be custom. 
+3. Cross reference XML file location names and directory location. This can be custom. 
